@@ -1,0 +1,38 @@
+* {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.date {
+	color: #3498db;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	transform: scaleY(0.9);
+}
+
+body {
+	border: 15px solid #bdc3c7;
+	width: 80%;
+	margin: 20px auto;
+	padding: 20px;
+	max-width: 700px;
+}
+
+h2 {
+	color: #2c3e50;
+	font-size: 35px;
+	font-weight: bold;
+	transform: scaleY(0.9);
+}
+
+h2 + p {
+	border-left: 6px solid #dae1ed;
+	padding-left: 6px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin-bottom: 20px;
+}
