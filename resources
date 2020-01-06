@@ -14,9 +14,13 @@ https://developer.mozilla.org/en-US/
 https://css-tricks.com/examples/hrs/
 
 6. bootstrap is a useful tool to make your html have a good looking
+https://www.bootstrapcdn.com/
 https://getbootstrap.com/docs/4.4/getting-started/introduction/
 use classes in html and css to usel bootstrap
 Among many components in bootstrap, Jumbotron is a lightweight, flexible component for showcasing hero unit style content.
+navbar
+grid
+glyphicons
 
 7. jquery
 https://code.jquery.com/
@@ -24,3 +28,6 @@ https://code.jquery.com/
 8. icon resources
 https://fontawesome.com/
 https://fontawesome.com/icons?d=gallery
+
+9. image resources
+https://unsplash.com/
